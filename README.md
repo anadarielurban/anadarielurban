@@ -75,34 +75,28 @@ motto: "Solve it, automate it, document it."
 
 <div align="center">
 
-**Backend & Languages**
+**Core Stack**
 
-![PHP](https://img.shields.io/badge/PHP-A78BFA?style=for-the-badge&logo=php&logoColor=0A0E27)
-![Laravel](https://img.shields.io/badge/Laravel-F472B6?style=for-the-badge&logo=laravel&logoColor=0A0E27)
-![JavaScript](https://img.shields.io/badge/JavaScript-22D3EE?style=for-the-badge&logo=javascript&logoColor=0A0E27)
-![Python](https://img.shields.io/badge/Python-A78BFA?style=for-the-badge&logo=python&logoColor=0A0E27)
-![Node.js](https://img.shields.io/badge/Node.js-F472B6?style=for-the-badge&logo=node.js&logoColor=0A0E27)
+<img src="https://skillicons.dev/icons?i=php,laravel,js,py,nodejs,react,vite&theme=dark&perline=7" />
 
-**Frontend**
+<br/><br/>
 
-![React](https://img.shields.io/badge/React-22D3EE?style=for-the-badge&logo=react&logoColor=0A0E27)
-![Vite](https://img.shields.io/badge/Vite-A78BFA?style=for-the-badge&logo=vite&logoColor=0A0E27)
-![Tailwind](https://img.shields.io/badge/Tailwind-F472B6?style=for-the-badge&logo=tailwindcss&logoColor=0A0E27)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-22D3EE?style=for-the-badge&logo=bootstrap&logoColor=0A0E27)
-![HTML5](https://img.shields.io/badge/HTML5-A78BFA?style=for-the-badge&logo=html5&logoColor=0A0E27)
-![CSS3](https://img.shields.io/badge/CSS3-F472B6?style=for-the-badge&logo=css3&logoColor=0A0E27)
+**Frontend & Design**
 
-**Databases**
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,html,css,figma&theme=dark&perline=5" />
 
-![MySQL](https://img.shields.io/badge/MySQL-22D3EE?style=for-the-badge&logo=mysql&logoColor=0A0E27)
-![SQL Server](https://img.shields.io/badge/SQL_Server-A78BFA?style=for-the-badge&logo=microsoftsqlserver&logoColor=0A0E27)
+<br/><br/>
 
-**Tools**
+**Databases & Tools**
 
-![Git](https://img.shields.io/badge/Git-F472B6?style=for-the-badge&logo=git&logoColor=0A0E27)
-![GitHub](https://img.shields.io/badge/GitHub-22D3EE?style=for-the-badge&logo=github&logoColor=0A0E27)
-![VS Code](https://img.shields.io/badge/VS_Code-A78BFA?style=for-the-badge&logo=visualstudiocode&logoColor=0A0E27)
-![Android Studio](https://img.shields.io/badge/Android_Studio-F472B6?style=for-the-badge&logo=androidstudio&logoColor=0A0E27)
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,androidstudio&theme=dark&perline=5" />
+
+<br/><br/>
+
+**Additional**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-161B22?style=for-the-badge&logo=microsoftsqlserver&logoColor=A78BFA)
+![REST API](https://img.shields.io/badge/REST_API-161B22?style=for-the-badge&logo=fastapi&logoColor=22D3EE)
 
 </div>
 
