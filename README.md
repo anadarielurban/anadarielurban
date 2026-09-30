@@ -180,43 +180,6 @@ motto: "Solve it, automate it, document it."
 
 ---
 
-## ▤ Experience
-
-### ◉ Ramos Arizpe City Hall
-**Systems Assistant** · `September 2024 – Present`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**✦ Support & Infrastructure**
-
-- ▸ Troubleshooting hardware, software, and network incidents
-- ▸ Administration and maintenance of computer equipment
-- ▸ User, device, and permission management via Active Directory
-- ▸ VLAN, IP addressing, and switch configuration
-- ▸ Server maintenance
-- ▸ Structured cabling installation & maintenance
-- ▸ CCTV, DVR/NVR installation & maintenance
-
-</td>
-<td width="50%" valign="top">
-
-**✦ Systems & Development**
-
-- ▸ Development and maintenance of internal systems
-- ▸ Web apps with PHP, Laravel, JavaScript, and React
-- ▸ Development and consumption of REST APIs
-- ▸ MySQL and SQL database management
-- ▸ Bug fixing and application maintenance
-- ▸ Implementation of improvements and new features
-
-</td>
-</tr>
-</table>
-
----
-
 ## ◫ GitHub Stats
 
 <div align="center">
@@ -231,26 +194,6 @@ motto: "Solve it, automate it, document it."
 <br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=anadarielurban&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-
-</div>
-
----
-
-## ◭ Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anadarielurban&bg_color=0A0E27&color=E6EDF3&line=A78BFA&point=F472B6&area=true&area_color=22D3EE&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/anadarielurban)
-
-</div>
-
----
-
-## ◉ Contributions
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/anadarielurban/anadarielurban/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
