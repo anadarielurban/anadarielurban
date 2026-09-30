@@ -75,42 +75,21 @@ motto: "Solve it, automate it, document it."
 
 <div align="center">
 
-**Backend & Languages**
+### Backend & Languages
 
-<img src="https://skillicons.dev/icons?i=php,laravel,js,py,nodejs&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=php,laravel,javascript,python,nodejs&theme=dark&perline=5" />
 
-<br/><br/>
-
-**Frontend**
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,html,css&theme=dark&perline=6" />
 
-<br/><br/>
+### Databases
 
-**Databases**
+<img src="https://skillicons.dev/icons?i=mysql,sqlserver&theme=dark&perline=2" />
 
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=1" />
-&nbsp;
-<img src="https://img.shields.io/badge/SQL_Server-161B22?style=for-the-badge&logo=microsoftsqlserver&logoColor=A78BFA" />
-
-<br/><br/>
-
-**Tools & Environment**
+### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&theme=dark&perline=4" />
-
-<br/><br/>
-
-**Systems & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=windows,linux,bash,powershell&theme=dark&perline=4" />
-
-<br/><br/>
-
-**Additional**
-
-![REST API](https://img.shields.io/badge/REST_API-161B22?style=for-the-badge&logo=fastapi&logoColor=22D3EE)
-![Active Directory](https://img.shields.io/badge/Active_Directory-161B22?style=for-the-badge&logo=microsoft&logoColor=A78BFA)
 
 </div>
 
@@ -139,11 +118,13 @@ motto: "Solve it, automate it, document it."
 
 *A web / PWA platform for logging, tracking, and managing technical support incidents.*
 
-<img src="https://skillicons.dev/icons?i=laravel,php,react,js,mysql,tailwind&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=laravel,php,react,javascript,mysql,tailwind&theme=dark&perline=6" />
 
-<br/><br/>
+<br/>
 
-![REST API](https://img.shields.io/badge/REST_API-161B22?style=for-the-badge&logo=fastapi&logoColor=22D3EE)
+<a href="https://github.com/anadarielurban/sistema_tickets">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anadarielurban&repo=sistema_tickets&bg_color=0A0E27&title_color=A78BFA&icon_color=22D3EE&text_color=E6EDF3&border_color=1E1B4B" />
+</a>
 
 </div>
 
