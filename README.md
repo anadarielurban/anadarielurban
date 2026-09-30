@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:1E1B4B,100:4C1D95&height=240&section=header&text=Ana%20Dariela%20Urbano&fontSize=48&fontColor=E6EDF3&fontAlignY=38&desc=IT%20Engineer%20%E2%80%A2%20Software%20Development%20%26%20Management&descAlignY=58&descSize=16&descColor=A78BFA&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:1E1B4B,100:4C1D95&height=240&section=header&text=Ana%20Dariela%20Urbano&fontSize=48&fontColor=E6EDF3&fontAlignY=38&desc=IT%20Engineer%20%E2%80%A2%20Support%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20Development&descAlignY=58&descSize=16&descColor=A78BFA&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Ana;IT+Engineer+%7C+Software+Dev+%26+Management;Building+web+apps+with+Laravel+%2B+React;From+support+to+shipping+features" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Ana;IT+Engineer+%7C+Support+%26+Infrastructure;Building+web+apps+with+Laravel+%2B+React;Turning+incidents+into+solutions" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/%E2%97%89_Coahuila-M%C3%A9xico-A78BFA?style=for-the-badge&labelColor=0A0E27" />
-<img src="https://img.shields.io/badge/%E2%96%A3_Software_Dev_%26_Management-22D3EE?style=for-the-badge&labelColor=0A0E27" />
-<img src="https://img.shields.io/badge/%E2%9C%A6_Open_to-Collaborate-F472B6?style=for-the-badge&labelColor=0A0E27" />
+<img src="https://img.shields.io/badge/%E2%96%A3_Open_to-Collaborate-22D3EE?style=for-the-badge&labelColor=0A0E27" />
+<img src="https://img.shields.io/badge/%E2%9C%A6_Always-Learning-F472B6?style=for-the-badge&labelColor=0A0E27" />
 
 <br/><br/>
 
@@ -27,13 +27,12 @@
 ```yaml
 name: Ana Dariela Urbano
 role: IT Engineer
-specialty: Software Development & Management
-focus: [Web Development, System Management, Infrastructure]
+focus: [Technical Support, Infrastructure, Web Development]
 location: Coahuila, México
 motto: "Solve it, automate it, document it."
 ```
 
-> IT Engineer specialized in **Software Development & Management**, with hands-on experience across **technical support**, **infrastructure**, and **internal systems**. I design, build, and maintain web applications with Laravel and React, while keeping the infrastructure that supports them running smoothly.
+> IT Engineer with hands-on experience across **technical support**, **infrastructure**, and **software development**. I spend my days solving incidents, managing networks and users, and shipping internal apps that actually make people's work easier.
 
 <br/>
 
@@ -41,16 +40,9 @@ motto: "Solve it, automate it, document it."
 <tr>
 <td align="center" width="25%">
 
-### ▣ Development
+### ◇ Support
 
-`Laravel` `React` `PHP` `REST APIs`
-
-</td>
-<td align="center" width="25%">
-
-### ▤ Management
-
-`System Admin` `Users` `Reports` `Docs`
+`Help Desk` `Hardware` `Software` `Troubleshooting`
 
 </td>
 <td align="center" width="25%">
@@ -62,9 +54,16 @@ motto: "Solve it, automate it, document it."
 </td>
 <td align="center" width="25%">
 
-### ◇ Support
+### ▣ Development
 
-`Help Desk` `Hardware` `Software` `Troubleshooting`
+`Laravel` `React` `PHP` `REST APIs`
+
+</td>
+<td align="center" width="25%">
+
+### ▤ Data
+
+`MySQL` `SQL Server` `Queries` `Reports`
 
 </td>
 </tr>
@@ -181,43 +180,6 @@ motto: "Solve it, automate it, document it."
 
 ---
 
-## ▤ Experience
-
-### ◉ Ramos Arizpe City Hall
-**Systems Assistant** · `September 2024 – Present`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**✦ Software & Development**
-
-- ▸ Development and maintenance of internal systems
-- ▸ Web apps with PHP, Laravel, JavaScript, and React
-- ▸ Development and consumption of REST APIs
-- ▸ MySQL and SQL database management
-- ▸ Bug fixing and application maintenance
-- ▸ Implementation of improvements and new features
-
-</td>
-<td width="50%" valign="top">
-
-**✦ Support & Infrastructure**
-
-- ▸ Troubleshooting hardware, software, and network incidents
-- ▸ Administration and maintenance of computer equipment
-- ▸ User, device, and permission management via Active Directory
-- ▸ VLAN, IP addressing, and switch configuration
-- ▸ Server maintenance
-- ▸ Structured cabling installation & maintenance
-- ▸ CCTV, DVR/NVR installation & maintenance
-
-</td>
-</tr>
-</table>
-
----
-
 ## ◫ GitHub Stats
 
 <div align="center">
@@ -237,26 +199,6 @@ motto: "Solve it, automate it, document it."
 
 ---
 
-## ◭ Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anadarielurban&bg_color=0A0E27&color=E6EDF3&line=A78BFA&point=F472B6&area=true&area_color=22D3EE&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/anadarielurban)
-
-</div>
-
----
-
-## ◉ Contributions
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/anadarielurban/anadarielurban/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## ✉ Contact
 
 <div align="center">
@@ -267,7 +209,7 @@ motto: "Solve it, automate it, document it."
 
 <br/>
 
-### ✦ `Software Development • Management • Infrastructure` ✦
+### ✦ `Support • Infrastructure • Development` ✦
 
 </div>
 
