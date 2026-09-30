@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<a href="#-about-me">About</a> · <a href="#-tech-stack">Stack</a> · <a href="#-featured-project">Project</a> · <a href="#-experience">Experience</a> · <a href="#-contact">Contact</a>
+<a href="#-about-me">About</a> · <a href="#-tech-stack">Stack</a> · <a href="#-featured-project">Project</a> · <a href="#-contact">Contact</a>
 
 </div>
 
