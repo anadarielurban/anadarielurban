@@ -3,14 +3,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:1E1B4B,100:4C1D95&height=240&section=header&text=Ana%20Dariela%20Urbano&fontSize=48&fontColor=E6EDF3&fontAlignY=38&desc=IT%20Engineer%20%E2%80%A2%20Support%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20Development&descAlignY=58&descSize=16&descColor=A78BFA&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Ana+%F0%9F%91%8B;IT+Engineer+%7C+Support+%26+Infrastructure;Building+web+apps+with+Laravel+%2B+React;Turning+incidents+into+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Ana;IT+Engineer+%7C+Support+%26+Infrastructure;Building+web+apps+with+Laravel+%2B+React;Turning+incidents+into+solutions" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/📍_Coahuila-México-A78BFA?style=for-the-badge&labelColor=0A0E27" />
-<img src="https://img.shields.io/badge/💼_Open_to-Collaborate-22D3EE?style=for-the-badge&labelColor=0A0E27" />
-<img src="https://img.shields.io/badge/⚡_Always-Learning-F472B6?style=for-the-badge&labelColor=0A0E27" />
+<img src="https://img.shields.io/badge/%E2%97%89_Coahuila-M%C3%A9xico-A78BFA?style=for-the-badge&labelColor=0A0E27" />
+<img src="https://img.shields.io/badge/%E2%96%A3_Open_to-Collaborate-22D3EE?style=for-the-badge&labelColor=0A0E27" />
+<img src="https://img.shields.io/badge/%E2%9C%A6_Always-Learning-F472B6?style=for-the-badge&labelColor=0A0E27" />
 
 <br/><br/>
 
@@ -22,7 +22,7 @@
 
 ---
 
-## 🌌 About Me
+## ◈ About Me
 
 ```yaml
 name: Ana Dariela Urbano
@@ -40,28 +40,28 @@ motto: "Solve it, automate it, document it."
 <tr>
 <td align="center" width="25%">
 
-### 🛠️ Support
+### ◇ Support
 
 `Help Desk` `Hardware` `Software` `Troubleshooting`
 
 </td>
 <td align="center" width="25%">
 
-### 🌐 Infrastructure
+### ◉ Infrastructure
 
 `VLANs` `TCP/IP` `Switches` `Routers`
 
 </td>
 <td align="center" width="25%">
 
-### 💻 Development
+### ▣ Development
 
 `Laravel` `React` `PHP` `REST APIs`
 
 </td>
 <td align="center" width="25%">
 
-### 🗄️ Data
+### ▤ Data
 
 `MySQL` `SQL Server` `Queries` `Reports`
 
@@ -71,7 +71,7 @@ motto: "Solve it, automate it, document it."
 
 ---
 
-## ⚡ Tech Stack
+## ⬢ Tech Stack
 
 <div align="center">
 
@@ -108,11 +108,11 @@ motto: "Solve it, automate it, document it."
 
 ---
 
-## 🌐 Support & Infrastructure
+## ⬡ Support & Infrastructure
 
 <div align="center">
 
-| 🛠️ Support | 🌐 Networking | 🔐 Systems | 📹 Security |
+| ◇ Support | ◉ Networking | ⬢ Systems | ▣ Security |
 |:---:|:---:|:---:|:---:|
 | Help Desk | VLANs | Active Directory | CCTV |
 | Hardware | TCP/IP | Users & Permissions | DVR / NVR |
@@ -123,11 +123,11 @@ motto: "Solve it, automate it, document it."
 
 ---
 
-## 🚀 Featured Project
+## ▣ Featured Project
 
 <div align="center">
 
-### 🎫 Ticket Management System
+### ▸ Ticket Management System
 
 *A web / PWA platform for logging, tracking, and managing technical support incidents.*
 
@@ -145,20 +145,20 @@ motto: "Solve it, automate it, document it."
 <tr>
 <td width="50%" valign="top">
 
-**✨ Features**
+**✦ Features**
 
-- 🎫 Ticket creation & tracking
-- 👥 User management
-- 🔐 Authentication & access control
-- 📊 Information management
-- 📄 Report & file generation
-- 🔄 REST API communication
-- 📱 Responsive interface
+- ▸ Ticket creation & tracking
+- ▸ User management
+- ▸ Authentication & access control
+- ▸ Information management
+- ▸ Report & file generation
+- ▸ REST API communication
+- ▸ Responsive interface
 
 </td>
 <td width="50%" valign="top">
 
-**🏗️ Architecture**
+**✦ Architecture**
 
 | Layer | Tech |
 |:---|:---|
@@ -174,42 +174,42 @@ motto: "Solve it, automate it, document it."
 
 <div align="center">
 
-[![View Project](https://img.shields.io/badge/🔗_VIEW_PROJECT-A78BFA?style=for-the-badge&logo=github&logoColor=0A0E27)](https://github.com/anadarielurban/sistema_tickets)
+[![View Project](https://img.shields.io/badge/%E2%96%B8_VIEW_PROJECT-A78BFA?style=for-the-badge&logo=github&logoColor=0A0E27)](https://github.com/anadarielurban/sistema_tickets)
 
 </div>
 
 ---
 
-## 💼 Experience
+## ▤ Experience
 
-### 🏛️ Ramos Arizpe City Hall
+### ◉ Ramos Arizpe City Hall
 **Systems Assistant** · `September 2024 – Present`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🛠️ Support & Infrastructure**
+**✦ Support & Infrastructure**
 
-- Troubleshooting hardware, software, and network incidents
-- Administration and maintenance of computer equipment
-- User, device, and permission management via Active Directory
-- VLAN, IP addressing, and switch configuration
-- Server maintenance
-- Structured cabling installation & maintenance
-- CCTV, DVR/NVR installation & maintenance
+- ▸ Troubleshooting hardware, software, and network incidents
+- ▸ Administration and maintenance of computer equipment
+- ▸ User, device, and permission management via Active Directory
+- ▸ VLAN, IP addressing, and switch configuration
+- ▸ Server maintenance
+- ▸ Structured cabling installation & maintenance
+- ▸ CCTV, DVR/NVR installation & maintenance
 
 </td>
 <td width="50%" valign="top">
 
-**💻 Systems & Development**
+**✦ Systems & Development**
 
-- Development and maintenance of internal systems
-- Web apps with PHP, Laravel, JavaScript, and React
-- Development and consumption of REST APIs
-- MySQL and SQL database management
-- Bug fixing and application maintenance
-- Implementation of improvements and new features
+- ▸ Development and maintenance of internal systems
+- ▸ Web apps with PHP, Laravel, JavaScript, and React
+- ▸ Development and consumption of REST APIs
+- ▸ MySQL and SQL database management
+- ▸ Bug fixing and application maintenance
+- ▸ Implementation of improvements and new features
 
 </td>
 </tr>
@@ -217,7 +217,7 @@ motto: "Solve it, automate it, document it."
 
 ---
 
-## 📊 GitHub Stats
+## ◫ GitHub Stats
 
 <div align="center">
 
@@ -236,7 +236,7 @@ motto: "Solve it, automate it, document it."
 
 ---
 
-## 📈 Activity
+## ◭ Activity
 
 <div align="center">
 
@@ -246,7 +246,7 @@ motto: "Solve it, automate it, document it."
 
 ---
 
-## 🐍 Contributions
+## ◉ Contributions
 
 <div align="center">
 
@@ -256,17 +256,17 @@ motto: "Solve it, automate it, document it."
 
 ---
 
-## 📬 Contact
+## ✉ Contact
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-anadarielurban@gmail.com-A78BFA?style=for-the-badge&logo=gmail&logoColor=0A0E27)](mailto:anadarielurban@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@anadarielurban-22D3EE?style=for-the-badge&logo=github&logoColor=0A0E27)](https://github.com/anadarielurban)
-[![Location](https://img.shields.io/badge/Location-Coahuila,_México-F472B6?style=for-the-badge&logo=googlemaps&logoColor=0A0E27)](#)
+[![Location](https://img.shields.io/badge/Location-Coahuila,_M%C3%A9xico-F472B6?style=for-the-badge&logo=googlemaps&logoColor=0A0E27)](#)
 
 <br/>
 
-### ✨ `Support • Infrastructure • Development` ✨
+### ✦ `Support • Infrastructure • Development` ✦
 
 </div>
 
