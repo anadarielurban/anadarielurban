@@ -1,8 +1,8 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🔥 HEADER NEÓN - rect con borde brillante animado -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A0A0A,50:7F1D1D,100:F87171&height=280&section=header&text=Ana%20Dariela%20Urbano&fontSize=55&fontColor=FEE2E2&fontAlignY=38&desc=IT%20Engineer%20%E2%80%A2%20Support%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20Development&descAlignY=58&descSize=18&descColor=FCA5A5&animation=scaleIn&fontAlign=50&stroke=F87171&strokeWidth=3" width="100%"/>
+<!-- 🔥 BANNER SVG (fondo animado con lluvia de código) -->
+<img src="banner.svg" width="100%" alt="Ana Dariela Urbano"/>
 
 <!-- ⌨️ Typing SVG Multilínea (animado, estable) -->
 <a href="https://git.io/typing-svg">
@@ -283,5 +283,5 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🔥 FOOTER NEÓN - rect invertido (espejo del header) -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F87171,50:DC2626,100:7F1D1D&height=160&section=footer&fontSize=22&fontColor=FEE2E2&fontAlignY=70&animation=scaleIn&reversal=true&stroke=F87171&strokeWidth=3" width="100%"/>
+<!-- 🔥 FOOTER SVG (fondo animado con lluvia de código) -->
+<img src="footer.svg" width="100%" alt="Footer"/>
