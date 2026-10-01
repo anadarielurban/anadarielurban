@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0A0A,25:450A0A,50:7F1D1D,75:B91C1C,100:F87171&height=280&section=header&text=Ana%20Dariela%20Urbano&fontSize=55&fontColor=FEE2E2&fontAlignY=35&desc=IT%20Engineer%20%E2%80%A2%20Support%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20Development&descAlignY=55&descSize=18&descColor=FCA5A5&animation=twinkling&fontAlign=50" width="100%"/>
+<!-- 🔥 HEADER ANIMADO - VENOM (reemplaza la wave) -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1A0A0A,25:450A0A,50:7F1D1D,75:B91C1C,100:F87171&height=320&section=header&text=Ana%20Dariela%20Urbano&fontSize=55&fontColor=FEE2E2&fontAlignY=40&desc=IT%20Engineer%20%E2%80%A2%20Support%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20Development&descAlignY=58&descSize=18&descColor=FCA5A5&animation=twinkling&fontAlign=50&stroke=F87171&strokeWidth=2" width="100%"/>
 
 <!-- ⌨️ Typing SVG Multilínea (animado, estable) -->
 <a href="https://git.io/typing-svg">
@@ -274,7 +275,7 @@
 
 <br/><br/>
 
-<!-- 🌊 Wave animado -->
+<!-- 🌊 Typing final -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&width=700&lines=%E2%9C%A6+Support+%E2%80%A2+Infrastructure+%E2%80%A2+Development+%E2%9C%A6" />
 
 </div>
@@ -282,4 +283,5 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F87171,50:DC2626,100:7F1D1D&height=160&section=footer&fontSize=22&fontColor=FEE2E2&fontAlignY=70&animation=twinkling" width="100%"/>
+<!-- 🔥 FOOTER ANIMADO - VENOM (reemplaza la wave) -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:F87171,50:DC2626,100:7F1D1D&height=200&section=footer&fontSize=22&fontColor=FEE2E2&fontAlignY=70&animation=twinkling&stroke=F87171&strokeWidth=2" width="100%"/>
