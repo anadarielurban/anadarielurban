@@ -105,7 +105,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
-  ⚙ Tech Stack
+   Tech Stack
 </h2>
 
 <div align="center">
