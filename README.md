@@ -58,12 +58,12 @@
 <table align="center">
 <tr>
 <td align="center" width="25%">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalQJ7zVzW/giphy.gif" width="70"/><br/><br/>
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="70"/><br/><br/>
   <b>◈ SUPPORT</b><br/>
   <sub><code>Help Desk</code><br/><code>Hardware</code><br/><code>Software</code><br/><code>Troubleshooting</code></sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="70"/><br/><br/>
+  <img src="https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif" width="70"/><br/><br/>
   <b>◈ INFRASTRUCTURE</b><br/>
   <sub><code>VLANs</code><br/><code>TCP/IP</code><br/><code>Switches</code><br/><code>Routers</code></sub>
 </td>
@@ -73,7 +73,7 @@
   <sub><code>Laravel</code><br/><code>React</code><br/><code>PHP</code><br/><code>REST APIs</code></sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://media.giphy.com/media/3o7TKrG6t1c3iX6zO0/giphy.gif" width="70"/><br/><br/>
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="70"/><br/><br/>
   <b>◈ DATA</b><br/>
   <sub><code>MySQL</code><br/><code>SQL Server</code><br/><code>Queries</code><br/><code>Reports</code></sub>
 </td>
@@ -143,7 +143,7 @@
 
 <div align="center">
 
-| <img src="https://media.giphy.com/media/l0HlQ7LRalQJ7zVzW/giphy.gif" width="24"/> **Support** | <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="24"/> **Networking** | <img src="https://media.giphy.com/media/3o7TKrG6t1c3iX6zO0/giphy.gif" width="24"/> **Systems** | <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="24"/> **Security** |
+| <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="24"/> **Support** | <img src="https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif" width="24"/> **Networking** | <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="24"/> **Systems** | <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="24"/> **Security** |
 |:---:|:---:|:---:|:---:|
 | 🎧 Help Desk | 🌐 VLANs | 👥 Active Directory | 📹 CCTV |
 | 💻 Hardware | 📡 TCP/IP | 🔑 Users & Permissions | 🎥 DVR / NVR |
@@ -165,7 +165,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7TKrG6t1c3iX6zO0/giphy.gif" width="70"/>
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="70"/>
 
 ### Ticket Management System
 
@@ -256,7 +256,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalQJ7zVzW/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30">
   ✉ Contact
 </h2>
 
