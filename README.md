@@ -1,3 +1,61 @@
+<div align="center">
+
+<!-- ═══════════════════════════════════════════════════════════
+     ██╗  ██╗███████╗██╗     ██╗      ██████╗ 
+     ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
+     ███████║█████╗  ██║     ██║     ██║   ██║
+     ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
+     ██║  ██║███████╗███████╗███████╗╚██████╔╝
+     ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ 
+     ═══════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,25:1E1B4B,50:4C1D95,75:7C3AED,100:A78BFA&height=280&section=header&text=Ana%20Dariela%20Urbano&fontSize=55&fontColor=E6EDF3&fontAlignY=35&desc=IT%20Engineer%20%E2%80%A2%20Support%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20Development&descAlignY=55&descSize=18&descColor=A78BFA&animation=twinkling&fontAlign=50" width="100%"/>
+
+<!-- ⌨️ Typing SVG Multilinea -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=900&lines=%E2%9A%A1+Hi%2C+I'm+Ana;%F0%9F%92%BB+IT+Engineer+%7C+Support+%26+Infrastructure;%F0%9F%9A%80+Building+web+apps+with+Laravel+%2B+React;%F0%9F%94%A7+Turning+incidents+into+solutions;%E2%9C%A6+Solve+it%2C+automate+it%2C+document+it." alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- 🏷️ BADGES DECORATIVOS -->
+<img src="https://img.shields.io/badge/%E2%97%89_Coahuila-M%C3%A9xico-A78BFA?style=for-the-badge&labelColor=0A0E27&logo=googlemaps&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/%E2%96%A3_Open_to-Collaborate-22D3EE?style=for-the-badge&labelColor=0A0E27&logo=handshake&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/%E2%9C%A6_Always-Learning-F472B6?style=for-the-badge&labelColor=0A0E27&logo=bookstack&logoColor=F472B6" />
+
+<br/><br/>
+
+<!-- 🧭 NAVEGACIÓN CON BADGES -->
+<a href="#-about-me"><img src="https://img.shields.io/badge/◆_ABOUT-A78BFA?style=for-the-badge&labelColor=0A0E27" /></a>
+<a href="#-tech-stack"><img src="https://img.shields.io/badge/◆_STACK-22D3EE?style=for-the-badge&labelColor=0A0E27" /></a>
+<a href="#-featured-project"><img src="https://img.shields.io/badge/◆_PROJECT-F472B6?style=for-the-badge&labelColor=0A0E27" /></a>
+<a href="#-contact"><img src="https://img.shields.io/badge/◆_CONTACT-7C3AED?style=for-the-badge&labelColor=0A0E27" /></a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ SEPARADOR ANIMADO ═══════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<!-- ═══════════════ ABOUT ═══════════════ -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  ◈ About Me
+</h2>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   ⚡  Ana Dariela Urbano                                 ║
+║   💼  IT Engineer                                        ║
+║   🎯  Support • Infrastructure • Development             ║
+║   📍  Coahuila, México                                   ║
+║   💬  "Solve it, automate it, document it."              ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
 > 💜 *IT Engineer with hands-on experience across **technical support**, **infrastructure**, and **software development**. I spend my days solving incidents, managing networks and users, and shipping internal apps that actually make people's work easier.*
 
@@ -223,3 +281,6 @@
 
 <!-- ═══════════════ FOOTER ═══════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,50:7C3AED,100:4C1D95&height=160&section=footer&text=◈%20Let's%20build%20something%20great%20◈&fontSize=22&fontColor=E6EDF3&fontAlignY=70&animation=twinkling" width="100%"/>
+```
+
+
