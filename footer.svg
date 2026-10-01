@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140">
+  <defs>
+    <linearGradient id="bgf" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7F1D1D"/>
+      <stop offset="50%" stop-color="#450A0A"/>
+      <stop offset="100%" stop-color="#1A0A0A"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="140" fill="url(#bgf)"/>
+
+  <!-- 💻 Lluvia de código -->
+  <g font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#F87171">
+    <text x="60" opacity="0.30">
+      // thanks for visiting
+      <animateTransform attributeName="transform" type="translate" from="0 -140" to="0 140" dur="6s" repeatCount="indefinite"/>
+    </text>
+    <text x="300" opacity="0.22">
+      export default Ana;
+      <animateTransform attributeName="transform" type="translate" from="0 -160" to="0 160" dur="8s" repeatCount="indefinite"/>
+    </text>
+    <text x="560" opacity="0.28">
+      &lt;/body&gt;&lt;/html&gt;
+      <animateTransform attributeName="transform" type="translate" from="0 -140" to="0 140" dur="7s" repeatCount="indefinite"/>
+    </text>
+    <text x="820" opacity="0.22">
+      while (alive) { keep_learning(); }
+      <animateTransform attributeName="transform" type="translate" from="0 -150" to="0 150" dur="9s" repeatCount="indefinite"/>
+    </text>
+    <text x="1080" opacity="0.28">
+      ✦ ♡ ✦
+      <animateTransform attributeName="transform" type="translate" from="0 -140" to="0 140" dur="5.5s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- ✋ Texto estático -->
+  <text x="600" y="75" text-anchor="middle"
+        font-family="'Courier New', monospace"
+        font-size="20" fill="#FEE2E2" letter-spacing="4">
+    ✦ SUPPORT • INFRASTRUCTURE • DEVELOPMENT ✦
+  </text>
+</svg>
