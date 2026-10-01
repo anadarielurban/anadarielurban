@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1A0A0A"/>
+      <stop offset="50%" stop-color="#450A0A"/>
+      <stop offset="100%" stop-color="#7F1D1D"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Fondo -->
+  <rect width="1200" height="280" fill="url(#bg)"/>
+
+  <!-- 💻 Lluvia de código (solo esto se mueve) -->
+  <g font-family="'Courier New', monospace" font-size="14" font-weight="bold" fill="#F87171">
+    <text x="40" opacity="0.30">
+      &lt;?php class Ana { public $role = "IT Engineer"; }
+      <animateTransform attributeName="transform" type="translate" from="0 -300" to="0 300" dur="7s" repeatCount="indefinite"/>
+    </text>
+    <text x="180" opacity="0.22">
+      const build = () =&gt; ({ tech: "Laravel + React" });
+      <animateTransform attributeName="transform" type="translate" from="0 -350" to="0 350" dur="9s" repeatCount="indefinite"/>
+    </text>
+    <text x="330" opacity="0.28">
+      SELECT * FROM skills WHERE user = "ana";
+      <animateTransform attributeName="transform" type="translate" from="0 -280" to="0 280" dur="6.5s" repeatCount="indefinite"/>
+    </text>
+    <text x="530" opacity="0.22">
+      function solve(incident) { return automate(incident); }
+      <animateTransform attributeName="transform" type="translate" from="0 -320" to="0 320" dur="8.5s" repeatCount="indefinite"/>
+    </text>
+    <text x="740" opacity="0.28">
+      db.tickets.find({ status: "open" })
+      <animateTransform attributeName="transform" type="translate" from="0 -300" to="0 300" dur="10s" repeatCount="indefinite"/>
+    </text>
+    <text x="920" opacity="0.22">
+      git commit -m "ship it"
+      <animateTransform attributeName="transform" type="translate" from="0 -260" to="0 260" dur="7.5s" repeatCount="indefinite"/>
+    </text>
+    <text x="1060" opacity="0.28">
+      VLAN :: TCP/IP :: switch :: router
+      <animateTransform attributeName="transform" type="translate" from="0 -340" to="0 340" dur="9.5s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- ✋ Texto estático (NO se mueve) -->
+  <text x="600" y="135" text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="55" font-weight="bold" fill="#FEE2E2">
+    Ana Dariela Urbano
+  </text>
+  <text x="600" y="180" text-anchor="middle"
+        font-family="'Courier New', monospace"
+        font-size="18" fill="#FCA5A5" letter-spacing="2">
+    IT Engineer • Support • Infrastructure • Development
+  </text>
+</svg>
