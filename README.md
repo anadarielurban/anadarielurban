@@ -1,27 +1,28 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0A0A,25:450A0A,50:7F1D1D,75:B91C1C,100:F87171&height=280&section=header&text=Ana%20Dariela%20Urbano&fontSize=55&fontColor=FEE2E2&fontAlignY=35&desc=IT%20Engineer%20%E2%80%A2%20Support%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20Development&descAlignY=55&descSize=18&descColor=FCA5A5&animation=twinkling&fontAlign=50" width="100%"/>
+<!-- BANNER: rojo → naranja → amarillo → verde → azul → azul rey     -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,16:F97316,33:FACC15,50:22C55E,66:3B82F6,83:2563EB,100:1E3A8A&height=280&section=header&text=Ana%20Dariela%20Urbano&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=IT%20Engineer%20%E2%80%A2%20Support%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20Development&descAlignY=55&descSize=18&descColor=FFFFFF&animation=twinkling&fontAlign=50" width="100%"/>
 
-<!-- ⌨️ Typing SVG Multilínea (animado, estable) -->
+<!-- ⌨️ Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=F87171&center=true&vCenter=true&multiline=false&width=900&lines=%E2%9A%A1+Hi%2C+I'm+Ana;%F0%9F%92%BB+IT+Engineer+%7C+Support+%26+Infrastructure;%F0%9F%9A%80+Building+web+apps+with+Laravel+%2B+React;%F0%9F%94%A7+Turning+incidents+into+solutions;%E2%9C%A6+Solve+it%2C+automate+it%2C+document+it." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=F97316&center=true&vCenter=true&multiline=false&width=900&lines=%E2%9A%A1+Hi%2C+I'm+Ana;%F0%9F%92%BB+IT+Engineer+%7C+Support+%26+Infrastructure;%F0%9F%9A%80+Building+web+apps+with+Laravel+%2B+React;%F0%9F%94%A7+Turning+incidents+into+solutions;%E2%9C%A8+Solve+it%2C+automate+it%2C+document+it." alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <!-- 🏷️ Badges decorativos -->
-<img src="https://img.shields.io/badge/%E2%97%89_Coahuila-M%C3%A9xico-F87171?style=for-the-badge&labelColor=1A0A0A&logo=googlemaps&logoColor=F87171" />
-<img src="https://img.shields.io/badge/%E2%96%A3_Open_to-Collaborate-FCA5A5?style=for-the-badge&labelColor=1A0A0A&logo=handshake&logoColor=FCA5A5" />
-<img src="https://img.shields.io/badge/%E2%9C%A6_Always-Learning-FB7185?style=for-the-badge&labelColor=1A0A0A&logo=bookstack&logoColor=FB7185" />
+<img src="https://img.shields.io/badge/%F0%9F%93%8D_Coahuila-M%C3%A9xico-DC2626?style=for-the-badge&labelColor=1A0A0A" />
+<img src="https://img.shields.io/badge/%F0%9F%A4%9D_Open_to-Collaborate-22C55E?style=for-the-badge&labelColor=1A0A0A" />
+<img src="https://img.shields.io/badge/%E2%9C%A8_Always-Learning-3B82F6?style=for-the-badge&labelColor=1A0A0A" />
 
 <br/><br/>
 
 <!-- 🧭 Navegación con badges -->
-<a href="#-about-me"><img src="https://img.shields.io/badge/%E2%97%86_ABOUT-F87171?style=for-the-badge&labelColor=1A0A0A" /></a>
-<a href="#-tech-stack"><img src="https://img.shields.io/badge/%E2%97%86_STACK-FCA5A5?style=for-the-badge&labelColor=1A0A0A" /></a>
-<a href="#-featured-project"><img src="https://img.shields.io/badge/%E2%97%86_PROJECT-FB7185?style=for-the-badge&labelColor=1A0A0A" /></a>
-<a href="#-contact"><img src="https://img.shields.io/badge/%E2%97%86_CONTACT-DC2626?style=for-the-badge&labelColor=1A0A0A" /></a>
+<a href="#-about-me"><img src="https://img.shields.io/badge/%F0%9F%91%A4_ABOUT-DC2626?style=for-the-badge&labelColor=1A0A0A" /></a>
+<a href="#-tech-stack"><img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F_STACK-FACC15?style=for-the-badge&labelColor=1A0A0A" /></a>
+<a href="#-featured-project"><img src="https://img.shields.io/badge/%F0%9F%9A%80_PROJECT-22C55E?style=for-the-badge&labelColor=1A0A0A" /></a>
+<a href="#-contact"><img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_CONTACT-2563EB?style=for-the-badge&labelColor=1A0A0A" /></a>
 
 </div>
 
@@ -32,8 +33,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  About Me
+  ✨ About Me
 </h2>
 
 <div align="center">
@@ -58,22 +58,22 @@
 <table align="center">
 <tr>
 <td align="center" width="25%">
-  <img src="https://cdn.lordicon.com/essfzsuc.json" width="70"/><br/><br/>
+  <h1>🎧</h1>
   <b>◈ SUPPORT</b><br/>
   <sub><code>Help Desk</code><br/><code>Hardware</code><br/><code>Software</code><br/><code>Troubleshooting</code></sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://cdn.lordicon.com/wfcywjbr.json" width="70"/><br/><br/>
+  <h1>🖥️</h1>
   <b>◈ INFRASTRUCTURE</b><br/>
   <sub><code>VLANs</code><br/><code>TCP/IP</code><br/><code>Switches</code><br/><code>Routers</code></sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://cdn.lordicon.com/nocovwne.json" width="70"/><br/><br/>
+  <h1>💻</h1>
   <b>◈ DEVELOPMENT</b><br/>
   <sub><code>Laravel</code><br/><code>React</code><br/><code>PHP</code><br/><code>REST APIs</code></sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://cdn.lordicon.com/ocnpyvdd.json" width="70"/><br/><br/>
+  <h1>🗄️</h1>
   <b>◈ DATA</b><br/>
   <sub><code>MySQL</code><br/><code>SQL Server</code><br/><code>Queries</code><br/><code>Reports</code></sub>
 </td>
@@ -87,8 +87,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
-  ⚙ Tech Stack
+  ⚙️ Tech Stack
 </h2>
 
 <div align="center">
@@ -136,14 +135,11 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<h2 align="center">
-  <img src="https://cdn.lordicon.com/ocnpyvdd.json" width="35">
-  ◈ Support & Infrastructure
-</h2>
+<h2 align="center">🔧 Support & Infrastructure</h2>
 
 <div align="center">
 
-| <img src="https://cdn.lordicon.com/essfzsuc.json" width="28"/> **Support** | <img src="https://cdn.lordicon.com/wfcywjbr.json" width="28"/> **Networking** | <img src="https://cdn.lordicon.com/ocnpyvdd.json" width="28"/> **Systems** | <img src="https://cdn.lordicon.com/nocovwne.json" width="28"/> **Security** |
+| 🎧 **Support** | 🌐 **Networking** | 🖥️ **Systems** | 🛡️ **Security** |
 |:---:|:---:|:---:|:---:|
 | 🎧 Help Desk | 🌐 VLANs | 👥 Active Directory | 📹 CCTV |
 | 💻 Hardware | 📡 TCP/IP | 🔑 Users & Permissions | 🎥 DVR / NVR |
@@ -158,14 +154,11 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<h2 align="center">
-  <img src="https://cdn.lordicon.com/nocovwne.json" width="35">
-  ◈ Featured Project
-</h2>
+<h2 align="center">🚀 Featured Project</h2>
 
 <div align="center">
 
-<img src="https://cdn.lordicon.com/ocnpyvdd.json" width="70"/>
+<h1>🎫</h1>
 
 ### Ticket Management System
 
@@ -176,7 +169,7 @@
 <br/><br/>
 
 <a href="https://github.com/anadarielurban/sistema_tickets">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anadarielurban&repo=sistema_tickets&bg_color=1A0A0A&title_color=F87171&icon_color=FCA5A5&text_color=FEE2E2&border_color=DC2626&border_radius=15" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anadarielurban&repo=sistema_tickets&bg_color=1A0A0A&title_color=F97316&icon_color=FACC15&text_color=FEE2E2&border_color=DC2626&border_radius=15" />
 </a>
 
 </div>
@@ -217,8 +210,8 @@
 <div align="center">
 
 <a href="https://github.com/anadarielurban/sistema_tickets">
-  <img src="https://img.shields.io/badge/◈_VIEW_PROJECT-F87171?style=for-the-badge&logo=github&logoColor=1A0A0A" />
-  <img src="https://img.shields.io/badge/◈_SOURCE_CODE-FCA5A5?style=for-the-badge&logo=git&logoColor=1A0A0A" />
+  <img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F_VIEW_PROJECT-DC2626?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%82_SOURCE_CODE-2563EB?style=for-the-badge&logo=git&logoColor=FFFFFF" />
 </a>
 
 </div>
@@ -229,19 +222,16 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  ◫ GitHub Stats
-</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anadarielurban&show_icons=true&hide_border=true&bg_color=1A0A0A&title_color=F87171&icon_color=FCA5A5&text_color=FEE2E2&rank_icon=github&include_all_commits=true&count_private=true&border_radius=15" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anadarielurban&layout=compact&hide_border=true&bg_color=1A0A0A&title_color=F87171&text_color=FEE2E2&langs_count=8&border_radius=15" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anadarielurban&show_icons=true&hide_border=true&bg_color=1A0A0A&title_color=F97316&icon_color=FACC15&text_color=FEE2E2&rank_icon=github&include_all_commits=true&count_private=true&border_radius=15" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anadarielurban&layout=compact&hide_border=true&bg_color=1A0A0A&title_color=F97316&text_color=FEE2E2&langs_count=8&border_radius=15" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=anadarielurban&theme=dark&hide_border=true&background=1A0A0A&ring=F87171&fire=FB7185&currStreakLabel=FCA5A5&sideLabels=FEE2E2&dates=F87171&currStreakNum=FEE2E2&sideNums=FEE2E2&stroke=DC2626&border_radius=15" />
+<img src="https://streak-stats.demolab.com?user=anadarielurban&theme=dark&hide_border=true&background=1A0A0A&ring=F97316&fire=DC2626&currStreakLabel=FACC15&sideLabels=FEE2E2&dates=F97316&currStreakNum=FEE2E2&sideNums=FEE2E2&stroke=2563EB&border_radius=15" />
 
 <br/><br/>
 
@@ -255,29 +245,27 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<h2 align="center">
-  <img src="https://cdn.lordicon.com/essfzsuc.json" width="30">
-  ✉ Contact
-</h2>
+<h2 align="center">✉️ Contact</h2>
 
 <div align="center">
 
 <a href="mailto:anadarielurban@gmail.com">
-  <img src="https://img.shields.io/badge/Email-anadarielurban@gmail.com-F87171?style=for-the-badge&logo=gmail&logoColor=1A0A0A" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%A7_Email-anadarielurban@gmail.com-DC2626?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
 </a>
 <a href="https://github.com/anadarielurban">
-  <img src="https://img.shields.io/badge/GitHub-@anadarielurban-FCA5A5?style=for-the-badge&logo=github&logoColor=1A0A0A" />
+  <img src="https://img.shields.io/badge/%F0%9F%90%99_GitHub-@anadarielurban-2563EB?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
-<img src="https://img.shields.io/badge/Location-Coahuila,_M%C3%A9xico-FB7185?style=for-the-badge&logo=googlemaps&logoColor=1A0A0A" />
+<img src="https://img.shields.io/badge/%F0%9F%93%8D_Location-Coahuila,_M%C3%A9xico-22C55E?style=for-the-badge&logo=googlemaps&logoColor=FFFFFF" />
 
 <br/><br/>
 
-<!-- 🌊 Wave animado -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&width=700&lines=%E2%9C%A6+Support+%E2%80%A2+Infrastructure+%E2%80%A2+Development+%E2%9C%A6" />
+<!-- 🌊 Texto animado -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=%E2%9C%A8+Support+%E2%80%A2+Infrastructure+%E2%80%A2+Development+%E2%9C%A8" />
 
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F87171,50:DC2626,100:7F1D1D&height=160&section=footer&fontSize=22&fontColor=FEE2E2&fontAlignY=70&animation=twinkling" width="100%"/>
+<!-- FOOTER: azul rey → azul → verde → amarillo → naranja → rojo     -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,17:2563EB,33:3B82F6,50:22C55E,67:FACC15,83:F97316,100:DC2626&height=160&section=footer&fontSize=22&fontColor=FFFFFF&fontAlignY=70&animation=twinkling" width="100%"/>
