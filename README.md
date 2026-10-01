@@ -44,7 +44,7 @@
 │   ⚡  Ana Dariela Urbano                                     │
 │   💼  IT Engineer                                            │
 │   🎯  Support • Infrastructure • Development                 │
-│   📍  Coahuila, México                                       │
+│   📍  Coahuila, México                                        │
 │   💬  "Solve it, automate it, document it."                  │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
@@ -273,4 +273,4 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,50:7C3AED,100:4C1D95&height=160&section=footer&text=◈%20Ana%20Dariela%20Urbano%20◈&fontSize=22&fontColor=E6EDF3&fontAlignY=70&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,50:7C3AED,100:4C1D95&height=160&section=footer&fontSize=22&fontColor=E6EDF3&fontAlignY=70&animation=twinkling" width="100%"/>
