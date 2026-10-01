@@ -138,7 +138,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <h2 align="center">
   <img src="https://cdn.lordicon.com/ocnpyvdd.json" width="35">
-  ◈ Support & Infrastructure
+  Support & Infrastructure
 </h2>
 
 <div align="center">
@@ -160,7 +160,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <h2 align="center">
   <img src="https://cdn.lordicon.com/nocovwne.json" width="35">
-  ◈ Featured Project
+  Featured Project
 </h2>
 
 <div align="center">
