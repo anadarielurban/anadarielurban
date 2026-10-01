@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0A0A,25:450A0A,50:7F1D1D,75:B91C1C,100:F87171&height=280&section=header&text=Ana%20Dariela%20Urbano&fontSize=55&fontColor=FEE2E2&fontAlignY=35&desc=IT%20Engineer%20%E2%80%A2%20Support%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20Development&descAlignY=55&descSize=18&descColor=FCA5A5&animation=twinkling&fontAlign=50" width="100%"/>
 
-<!-- ⌨️ Typing SVG Multilínea -->
+<!-- ⌨️ Typing SVG Multilínea (animado, estable) -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=F87171&center=true&vCenter=true&multiline=false&width=900&lines=%E2%9A%A1+Hi%2C+I'm+Ana;%F0%9F%92%BB+IT+Engineer+%7C+Support+%26+Infrastructure;%F0%9F%9A%80+Building+web+apps+with+Laravel+%2B+React;%F0%9F%94%A7+Turning+incidents+into+solutions;%E2%9C%A6+Solve+it%2C+automate+it%2C+document+it." alt="Typing SVG" />
 </a>
@@ -58,22 +58,22 @@
 <table align="center">
 <tr>
 <td align="center" width="25%">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="70"/><br/><br/>
+  <img src="https://cdn.lordicon.com/essfzsuc.json" width="70"/><br/><br/>
   <b>◈ SUPPORT</b><br/>
   <sub><code>Help Desk</code><br/><code>Hardware</code><br/><code>Software</code><br/><code>Troubleshooting</code></sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif" width="70"/><br/><br/>
+  <img src="https://cdn.lordicon.com/wfcywjbr.json" width="70"/><br/><br/>
   <b>◈ INFRASTRUCTURE</b><br/>
   <sub><code>VLANs</code><br/><code>TCP/IP</code><br/><code>Switches</code><br/><code>Routers</code></sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="70"/><br/><br/>
+  <img src="https://cdn.lordicon.com/nocovwne.json" width="70"/><br/><br/>
   <b>◈ DEVELOPMENT</b><br/>
   <sub><code>Laravel</code><br/><code>React</code><br/><code>PHP</code><br/><code>REST APIs</code></sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="70"/><br/><br/>
+  <img src="https://cdn.lordicon.com/ocnpyvdd.json" width="70"/><br/><br/>
   <b>◈ DATA</b><br/>
   <sub><code>MySQL</code><br/><code>SQL Server</code><br/><code>Queries</code><br/><code>Reports</code></sub>
 </td>
@@ -137,13 +137,13 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
+  <img src="https://cdn.lordicon.com/ocnpyvdd.json" width="35">
   ◈ Support & Infrastructure
 </h2>
 
 <div align="center">
 
-| <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="24"/> **Support** | <img src="https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif" width="24"/> **Networking** | <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="24"/> **Systems** | <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="24"/> **Security** |
+| <img src="https://cdn.lordicon.com/essfzsuc.json" width="28"/> **Support** | <img src="https://cdn.lordicon.com/wfcywjbr.json" width="28"/> **Networking** | <img src="https://cdn.lordicon.com/ocnpyvdd.json" width="28"/> **Systems** | <img src="https://cdn.lordicon.com/nocovwne.json" width="28"/> **Security** |
 |:---:|:---:|:---:|:---:|
 | 🎧 Help Desk | 🌐 VLANs | 👥 Active Directory | 📹 CCTV |
 | 💻 Hardware | 📡 TCP/IP | 🔑 Users & Permissions | 🎥 DVR / NVR |
@@ -159,13 +159,13 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">
+  <img src="https://cdn.lordicon.com/nocovwne.json" width="35">
   ◈ Featured Project
 </h2>
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="70"/>
+<img src="https://cdn.lordicon.com/ocnpyvdd.json" width="70"/>
 
 ### Ticket Management System
 
@@ -256,7 +256,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30">
+  <img src="https://cdn.lordicon.com/essfzsuc.json" width="30">
   ✉ Contact
 </h2>
 
