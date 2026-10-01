@@ -33,7 +33,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  ◈ About Me
+  About Me
 </h2>
 
 <div align="center">
