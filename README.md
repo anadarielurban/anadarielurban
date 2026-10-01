@@ -1,24 +1,19 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🔥 BANNER SVG (fondo animado con lluvia de código) -->
 <img src="banner.svg" width="100%" alt="Ana Dariela Urbano"/>
 
-<!-- ⌨️ Typing SVG Multilínea (animado, estable) -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=F87171&center=true&vCenter=true&multiline=false&width=900&lines=%E2%9A%A1+Hi%2C+I'm+Ana;%F0%9F%92%BB+IT+Engineer+%7C+Support+%26+Infrastructure;%F0%9F%9A%80+Building+web+apps+with+Laravel+%2B+React;%F0%9F%94%A7+Turning+incidents+into+solutions;%E2%9C%A6+Solve+it%2C+automate+it%2C+document+it." alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- 🏷️ Badges decorativos -->
 <img src="https://img.shields.io/badge/%E2%97%89_Coahuila-M%C3%A9xico-F87171?style=for-the-badge&labelColor=1A0A0A&logo=googlemaps&logoColor=F87171" />
 <img src="https://img.shields.io/badge/%E2%96%A3_Open_to-Collaborate-FCA5A5?style=for-the-badge&labelColor=1A0A0A&logo=handshake&logoColor=FCA5A5" />
 <img src="https://img.shields.io/badge/%E2%9C%A6_Always-Learning-FB7185?style=for-the-badge&labelColor=1A0A0A&logo=bookstack&logoColor=FB7185" />
 
 <br/><br/>
 
-<!-- 🧭 Navegación con badges -->
 <a href="#-about-me"><img src="https://img.shields.io/badge/%E2%97%86_ABOUT-F87171?style=for-the-badge&labelColor=1A0A0A" /></a>
 <a href="#-tech-stack"><img src="https://img.shields.io/badge/%E2%97%86_STACK-FCA5A5?style=for-the-badge&labelColor=1A0A0A" /></a>
 <a href="#-featured-project"><img src="https://img.shields.io/badge/%E2%97%86_PROJECT-FB7185?style=for-the-badge&labelColor=1A0A0A" /></a>
@@ -28,10 +23,8 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
   About Me
