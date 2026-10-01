@@ -133,10 +133,8 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <h2 align="center">
   <img src="https://cdn.lordicon.com/ocnpyvdd.json" width="35">
   Support & Infrastructure
@@ -156,7 +154,6 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -228,10 +225,8 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
    GitHub Stats
@@ -254,10 +249,8 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <h2 align="center">
   <img src="https://cdn.lordicon.com/essfzsuc.json" width="30">
   ✉ Contact
@@ -275,13 +268,10 @@
 
 <br/><br/>
 
-<!-- ⌨️ Typing final -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&width=700&lines=%E2%9C%A6+Support+%E2%80%A2+Infrastructure+%E2%80%A2+Development+%E2%9C%A6" />
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🔥 FOOTER SVG (fondo animado con lluvia de código) -->
 <img src="footer.svg" width="100%" alt="Footer"/>
