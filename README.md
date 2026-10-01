@@ -1,27 +1,27 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,25:1E1B4B,50:4C1D95,75:7C3AED,100:A78BFA&height=280&section=header&text=Ana%20Dariela%20Urbano&fontSize=55&fontColor=E6EDF3&fontAlignY=35&desc=IT%20Engineer%20%E2%80%A2%20Support%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20Development&descAlignY=55&descSize=18&descColor=A78BFA&animation=twinkling&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0A0A,25:450A0A,50:7F1D1D,75:B91C1C,100:F87171&height=280&section=header&text=Ana%20Dariela%20Urbano&fontSize=55&fontColor=FEE2E2&fontAlignY=35&desc=IT%20Engineer%20%E2%80%A2%20Support%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20Development&descAlignY=55&descSize=18&descColor=FCA5A5&animation=twinkling&fontAlign=50" width="100%"/>
 
 <!-- ⌨️ Typing SVG Multilínea -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=900&lines=%E2%9A%A1+Hi%2C+I'm+Ana;%F0%9F%92%BB+IT+Engineer+%7C+Support+%26+Infrastructure;%F0%9F%9A%80+Building+web+apps+with+Laravel+%2B+React;%F0%9F%94%A7+Turning+incidents+into+solutions;%E2%9C%A6+Solve+it%2C+automate+it%2C+document+it." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=F87171&center=true&vCenter=true&multiline=false&width=900&lines=%E2%9A%A1+Hi%2C+I'm+Ana;%F0%9F%92%BB+IT+Engineer+%7C+Support+%26+Infrastructure;%F0%9F%9A%80+Building+web+apps+with+Laravel+%2B+React;%F0%9F%94%A7+Turning+incidents+into+solutions;%E2%9C%A6+Solve+it%2C+automate+it%2C+document+it." alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <!-- 🏷️ Badges decorativos -->
-<img src="https://img.shields.io/badge/%E2%97%89_Coahuila-M%C3%A9xico-A78BFA?style=for-the-badge&labelColor=0A0E27&logo=googlemaps&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/%E2%96%A3_Open_to-Collaborate-22D3EE?style=for-the-badge&labelColor=0A0E27&logo=handshake&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/%E2%9C%A6_Always-Learning-F472B6?style=for-the-badge&labelColor=0A0E27&logo=bookstack&logoColor=F472B6" />
+<img src="https://img.shields.io/badge/%E2%97%89_Coahuila-M%C3%A9xico-F87171?style=for-the-badge&labelColor=1A0A0A&logo=googlemaps&logoColor=F87171" />
+<img src="https://img.shields.io/badge/%E2%96%A3_Open_to-Collaborate-FCA5A5?style=for-the-badge&labelColor=1A0A0A&logo=handshake&logoColor=FCA5A5" />
+<img src="https://img.shields.io/badge/%E2%9C%A6_Always-Learning-FB7185?style=for-the-badge&labelColor=1A0A0A&logo=bookstack&logoColor=FB7185" />
 
 <br/><br/>
 
 <!-- 🧭 Navegación con badges -->
-<a href="#-about-me"><img src="https://img.shields.io/badge/%E2%97%86_ABOUT-A78BFA?style=for-the-badge&labelColor=0A0E27" /></a>
-<a href="#-tech-stack"><img src="https://img.shields.io/badge/%E2%97%86_STACK-22D3EE?style=for-the-badge&labelColor=0A0E27" /></a>
-<a href="#-featured-project"><img src="https://img.shields.io/badge/%E2%97%86_PROJECT-F472B6?style=for-the-badge&labelColor=0A0E27" /></a>
-<a href="#-contact"><img src="https://img.shields.io/badge/%E2%97%86_CONTACT-7C3AED?style=for-the-badge&labelColor=0A0E27" /></a>
+<a href="#-about-me"><img src="https://img.shields.io/badge/%E2%97%86_ABOUT-F87171?style=for-the-badge&labelColor=1A0A0A" /></a>
+<a href="#-tech-stack"><img src="https://img.shields.io/badge/%E2%97%86_STACK-FCA5A5?style=for-the-badge&labelColor=1A0A0A" /></a>
+<a href="#-featured-project"><img src="https://img.shields.io/badge/%E2%97%86_PROJECT-FB7185?style=for-the-badge&labelColor=1A0A0A" /></a>
+<a href="#-contact"><img src="https://img.shields.io/badge/%E2%97%86_CONTACT-DC2626?style=for-the-badge&labelColor=1A0A0A" /></a>
 
 </div>
 
@@ -38,10 +38,6 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-
 **⚡ Ana Dariela Urbano**
 
 `💼 IT Engineer`
@@ -50,22 +46,9 @@
 
 `📍 Coahuila, México`
 
-</td>
-<td align="center" width="50%">
-
-**💬 Philosophy**
-
-*"Solve it, automate it, document it."*
-
-<sub>Hands-on experience across technical support, infrastructure, and software development.</sub>
-
-</td>
-</tr>
-</table>
-
 <br/>
 
-> *I spend my days solving incidents, managing networks and users, and shipping internal apps that actually make people's work easier.*
+> *IT Engineer with hands-on experience across **technical support**, **infrastructure**, and **software development**. I spend my days solving incidents, managing networks and users, and shipping internal apps that actually make people's work easier.*
 
 </div>
 
@@ -75,23 +58,23 @@
 <table align="center">
 <tr>
 <td align="center" width="25%">
-  <img src="https://img.icons8.com/fluency/96/headset.png" width="70"/><br/><br/>
-  <b>SUPPORT</b><br/>
+  <img src="https://media.giphy.com/media/l0HlQ7LRalQJ7zVzW/giphy.gif" width="70"/><br/><br/>
+  <b>◈ SUPPORT</b><br/>
   <sub><code>Help Desk</code><br/><code>Hardware</code><br/><code>Software</code><br/><code>Troubleshooting</code></sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.icons8.com/fluency/96/server.png" width="70"/><br/><br/>
-  <b>INFRASTRUCTURE</b><br/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="70"/><br/><br/>
+  <b>◈ INFRASTRUCTURE</b><br/>
   <sub><code>VLANs</code><br/><code>TCP/IP</code><br/><code>Switches</code><br/><code>Routers</code></sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.icons8.com/fluency/96/code.png" width="70"/><br/><br/>
-  <b>DEVELOPMENT</b><br/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="70"/><br/><br/>
+  <b>◈ DEVELOPMENT</b><br/>
   <sub><code>Laravel</code><br/><code>React</code><br/><code>PHP</code><br/><code>REST APIs</code></sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.icons8.com/fluency/96/database.png" width="70"/><br/><br/>
-  <b>DATA</b><br/>
+  <img src="https://media.giphy.com/media/3o7TKrG6t1c3iX6zO0/giphy.gif" width="70"/><br/><br/>
+  <b>◈ DATA</b><br/>
   <sub><code>MySQL</code><br/><code>SQL Server</code><br/><code>Queries</code><br/><code>Reports</code></sub>
 </td>
 </tr>
@@ -105,7 +88,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
-   Tech Stack
+  ⚙ Tech Stack
 </h2>
 
 <div align="center">
@@ -153,11 +136,14 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<h2 align="center">◈ Support & Infrastructure</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
+  ◈ Support & Infrastructure
+</h2>
 
 <div align="center">
 
-| <img src="https://img.icons8.com/fluency/24/headset.png"/> **Support** | <img src="https://img.icons8.com/fluency/24/network.png"/> **Networking** | <img src="https://img.icons8.com/fluency/24/server.png"/> **Systems** | <img src="https://img.icons8.com/fluency/24/security-checked.png"/> **Security** |
+| <img src="https://media.giphy.com/media/l0HlQ7LRalQJ7zVzW/giphy.gif" width="24"/> **Support** | <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="24"/> **Networking** | <img src="https://media.giphy.com/media/3o7TKrG6t1c3iX6zO0/giphy.gif" width="24"/> **Systems** | <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="24"/> **Security** |
 |:---:|:---:|:---:|:---:|
 | 🎧 Help Desk | 🌐 VLANs | 👥 Active Directory | 📹 CCTV |
 | 💻 Hardware | 📡 TCP/IP | 🔑 Users & Permissions | 🎥 DVR / NVR |
@@ -172,11 +158,14 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<h2 align="center">◈ Featured Project</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">
+  ◈ Featured Project
+</h2>
 
 <div align="center">
 
-<img src="https://img.icons8.com/fluency/96/ticket.png" width="70"/>
+<img src="https://media.giphy.com/media/3o7TKrG6t1c3iX6zO0/giphy.gif" width="70"/>
 
 ### Ticket Management System
 
@@ -187,7 +176,7 @@
 <br/><br/>
 
 <a href="https://github.com/anadarielurban/sistema_tickets">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anadarielurban&repo=sistema_tickets&bg_color=0A0E27&title_color=A78BFA&icon_color=22D3EE&text_color=E6EDF3&border_color=7C3AED&border_radius=15" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anadarielurban&repo=sistema_tickets&bg_color=1A0A0A&title_color=F87171&icon_color=FCA5A5&text_color=FEE2E2&border_color=DC2626&border_radius=15" />
 </a>
 
 </div>
@@ -228,8 +217,8 @@
 <div align="center">
 
 <a href="https://github.com/anadarielurban/sistema_tickets">
-  <img src="https://img.shields.io/badge/◈_VIEW_PROJECT-A78BFA?style=for-the-badge&logo=github&logoColor=0A0E27" />
-  <img src="https://img.shields.io/badge/◈_SOURCE_CODE-22D3EE?style=for-the-badge&logo=git&logoColor=0A0E27" />
+  <img src="https://img.shields.io/badge/◈_VIEW_PROJECT-F87171?style=for-the-badge&logo=github&logoColor=1A0A0A" />
+  <img src="https://img.shields.io/badge/◈_SOURCE_CODE-FCA5A5?style=for-the-badge&logo=git&logoColor=1A0A0A" />
 </a>
 
 </div>
@@ -242,17 +231,17 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-   GitHub Stats
+  ◫ GitHub Stats
 </h2>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anadarielurban&show_icons=true&hide_border=true&bg_color=0A0E27&title_color=A78BFA&icon_color=22D3EE&text_color=E6EDF3&rank_icon=github&include_all_commits=true&count_private=true&border_radius=15" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anadarielurban&layout=compact&hide_border=true&bg_color=0A0E27&title_color=A78BFA&text_color=E6EDF3&langs_count=8&border_radius=15" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anadarielurban&show_icons=true&hide_border=true&bg_color=1A0A0A&title_color=F87171&icon_color=FCA5A5&text_color=FEE2E2&rank_icon=github&include_all_commits=true&count_private=true&border_radius=15" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anadarielurban&layout=compact&hide_border=true&bg_color=1A0A0A&title_color=F87171&text_color=FEE2E2&langs_count=8&border_radius=15" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=anadarielurban&theme=dark&hide_border=true&background=0A0E27&ring=A78BFA&fire=F472B6&currStreakLabel=22D3EE&sideLabels=E6EDF3&dates=A78BFA&currStreakNum=E6EDF3&sideNums=E6EDF3&stroke=7C3AED&border_radius=15" />
+<img src="https://streak-stats.demolab.com?user=anadarielurban&theme=dark&hide_border=true&background=1A0A0A&ring=F87171&fire=FB7185&currStreakLabel=FCA5A5&sideLabels=FEE2E2&dates=F87171&currStreakNum=FEE2E2&sideNums=FEE2E2&stroke=DC2626&border_radius=15" />
 
 <br/><br/>
 
@@ -266,26 +255,29 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<h2 align="center">✉ Contact</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/l0HlQ7LRalQJ7zVzW/giphy.gif" width="30">
+  ✉ Contact
+</h2>
 
 <div align="center">
 
 <a href="mailto:anadarielurban@gmail.com">
-  <img src="https://img.shields.io/badge/Email-anadarielurban@gmail.com-A78BFA?style=for-the-badge&logo=gmail&logoColor=0A0E27" />
+  <img src="https://img.shields.io/badge/Email-anadarielurban@gmail.com-F87171?style=for-the-badge&logo=gmail&logoColor=1A0A0A" />
 </a>
 <a href="https://github.com/anadarielurban">
-  <img src="https://img.shields.io/badge/GitHub-@anadarielurban-22D3EE?style=for-the-badge&logo=github&logoColor=0A0E27" />
+  <img src="https://img.shields.io/badge/GitHub-@anadarielurban-FCA5A5?style=for-the-badge&logo=github&logoColor=1A0A0A" />
 </a>
-<img src="https://img.shields.io/badge/Location-Coahuila,_M%C3%A9xico-F472B6?style=for-the-badge&logo=googlemaps&logoColor=0A0E27" />
+<img src="https://img.shields.io/badge/Location-Coahuila,_M%C3%A9xico-FB7185?style=for-the-badge&logo=googlemaps&logoColor=1A0A0A" />
 
 <br/><br/>
 
 <!-- 🌊 Wave animado -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=%E2%9C%A6+Support+%E2%80%A2+Infrastructure+%E2%80%A2+Development+%E2%9C%A6" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&width=700&lines=%E2%9C%A6+Support+%E2%80%A2+Infrastructure+%E2%80%A2+Development+%E2%9C%A6" />
 
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,50:7C3AED,100:4C1D95&height=160&section=footer&fontSize=22&fontColor=E6EDF3&fontAlignY=70&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F87171,50:DC2626,100:7F1D1D&height=160&section=footer&fontSize=22&fontColor=FEE2E2&fontAlignY=70&animation=twinkling" width="100%"/>
