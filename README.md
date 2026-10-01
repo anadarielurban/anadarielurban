@@ -76,22 +76,22 @@
 <tr>
 <td align="center" width="25%">
   <img src="https://img.icons8.com/fluency/96/headset.png" width="70"/><br/><br/>
-  <b>◈ SUPPORT</b><br/>
+  <b>SUPPORT</b><br/>
   <sub><code>Help Desk</code><br/><code>Hardware</code><br/><code>Software</code><br/><code>Troubleshooting</code></sub>
 </td>
 <td align="center" width="25%">
   <img src="https://img.icons8.com/fluency/96/server.png" width="70"/><br/><br/>
-  <b>◈ INFRASTRUCTURE</b><br/>
+  <b>INFRASTRUCTURE</b><br/>
   <sub><code>VLANs</code><br/><code>TCP/IP</code><br/><code>Switches</code><br/><code>Routers</code></sub>
 </td>
 <td align="center" width="25%">
   <img src="https://img.icons8.com/fluency/96/code.png" width="70"/><br/><br/>
-  <b>◈ DEVELOPMENT</b><br/>
+  <b>DEVELOPMENT</b><br/>
   <sub><code>Laravel</code><br/><code>React</code><br/><code>PHP</code><br/><code>REST APIs</code></sub>
 </td>
 <td align="center" width="25%">
   <img src="https://img.icons8.com/fluency/96/database.png" width="70"/><br/><br/>
-  <b>◈ DATA</b><br/>
+  <b>DATA</b><br/>
   <sub><code>MySQL</code><br/><code>SQL Server</code><br/><code>Queries</code><br/><code>Reports</code></sub>
 </td>
 </tr>
