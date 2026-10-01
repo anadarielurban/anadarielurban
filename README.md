@@ -260,9 +260,6 @@
 <img src="https://img.shields.io/badge/Location-Coahuila,_M%C3%A9xico-FB7185?style=for-the-badge&logo=googlemaps&logoColor=1A0A0A" />
 
 <br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&width=700&lines=%E2%9C%A6+Support+%E2%80%A2+Infrastructure+%E2%80%A2+Development+%E2%9C%A6" />
-
 </div>
 
 <br/>
