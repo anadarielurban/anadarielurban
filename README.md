@@ -75,7 +75,7 @@
 <td align="center" width="25%">
   <img src="https://cdn.lordicon.com/ocnpyvdd.json" width="70"/><br/><br/>
   <b>DATA</b><br/>
-  <sub><code>MySQL</code><br/><code>SQL Server</code><br/><code>Queries</code><br/><code>Reports</code></sub>
+  <sub><code>MySQL</code><br/><code>MongoDB</code><br/><code>SQL Server</code><br/><code>Queries</code></sub>
 </td>
 </tr>
 </table>
@@ -115,7 +115,7 @@
 
 **🗄️ Databases**
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlserver&theme=dark&perline=2" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlserver&theme=dark&perline=3" />
 
 </td>
 <td align="center" width="50%">
@@ -149,6 +149,7 @@
 | 💻 Hardware | 📡 TCP/IP | 🔑 Users & Permissions | 🎥 DVR / NVR |
 | 🧩 Software | 🔌 Switches | 🖥️ Servers | 🔧 Installation |
 | 🔍 Troubleshooting | 📶 Routers | 🪟 Windows | 🛡️ Maintenance |
+| 🍃 MongoDB | 🗄️ MySQL / SQL Server | 📦 NoSQL | 🔐 Backups |
 
 </div>
 
@@ -171,7 +172,7 @@
 
 <p><i>A web / PWA platform for logging, tracking, and managing technical support incidents.</i></p>
 
-<img src="https://skillicons.dev/icons?i=laravel,php,react,javascript,mysql,tailwind&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=laravel,php,react,javascript,mysql,mongodb,tailwind&theme=dark&perline=7" />
 
 <br/><br/>
 
@@ -207,6 +208,7 @@
 | 🎨 **Frontend** | React + Vite |
 | ⚙️ **Backend** | Laravel + PHP |
 | 🗄️ **Database** | MySQL |
+| 🍃 **NoSQL** | MongoDB |
 | 🔌 **API** | REST |
 | 🌿 **Versioning** | Git / GitHub |
 
