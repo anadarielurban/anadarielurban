@@ -38,19 +38,34 @@
 
 <div align="center">
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   ⚡  Ana Dariela Urbano                                     │
-│   💼  IT Engineer                                            │
-│   🎯  Support • Infrastructure • Development                 │
-│   📍  Coahuila, México                                        │
-│   💬  "Solve it, automate it, document it."                  │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td align="center" width="50%">
 
-> *IT Engineer with hands-on experience across **technical support**, **infrastructure**, and **software development**. I spend my days solving incidents, managing networks and users, and shipping internal apps that actually make people's work easier.*
+**⚡ Ana Dariela Urbano**
+
+`💼 IT Engineer`
+
+`🎯 Support • Infrastructure • Development`
+
+`📍 Coahuila, México`
+
+</td>
+<td align="center" width="50%">
+
+**💬 Philosophy**
+
+*"Solve it, automate it, document it."*
+
+<sub>Hands-on experience across technical support, infrastructure, and software development.</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+> *I spend my days solving incidents, managing networks and users, and shipping internal apps that actually make people's work easier.*
 
 </div>
 
