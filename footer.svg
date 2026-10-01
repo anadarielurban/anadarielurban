@@ -9,7 +9,6 @@
 
   <rect width="1200" height="140" fill="url(#bgf)"/>
 
-  <!-- 💻 Lluvia de código -->
   <g font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#F87171">
     <text x="60" opacity="0.30">
       // thanks for visiting
@@ -33,7 +32,6 @@
     </text>
   </g>
 
-  <!-- ✋ Texto estático -->
   <text x="600" y="75" text-anchor="middle"
         font-family="'Courier New', monospace"
         font-size="20" fill="#FEE2E2" letter-spacing="4">
