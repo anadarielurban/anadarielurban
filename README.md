@@ -50,7 +50,7 @@
 └──────────────────────────────────────────────────────────────┘
 ```
 
-> 💜 *IT Engineer with hands-on experience across **technical support**, **infrastructure**, and **software development**. I spend my days solving incidents, managing networks and users, and shipping internal apps that actually make people's work easier.*
+> *IT Engineer with hands-on experience across **technical support**, **infrastructure**, and **software development**. I spend my days solving incidents, managing networks and users, and shipping internal apps that actually make people's work easier.*
 
 </div>
 
